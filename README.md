@@ -1,1 +1,1 @@
-Git hub basuc command and defintions
+Git hub basic command and defintions
