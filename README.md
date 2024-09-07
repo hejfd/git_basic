@@ -1,1 +1,1 @@
-Git hub basic command and defintions
+Git  basic command and defintions
