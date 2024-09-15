@@ -1,4 +1,4 @@
-Here’s a list of basic Git commands with their definitions, without the bash commands:
+
 
 ### 1. **git init**  
 Initializes a new Git repository in the current directory. It creates a `.git` folder to start tracking changes.
