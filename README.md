@@ -1,1 +1,2 @@
-Git  basic command and defintions
+Start with git and git hub
+
