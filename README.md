@@ -1,1 +1,1 @@
-Start with git and git hub
+Starting with git and git hub
